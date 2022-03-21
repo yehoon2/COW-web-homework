@@ -1,0 +1,23 @@
+#name{
+    font-size: xx-small;
+    color: blue;
+    background-color: blueviolet;
+}
+#head{
+    background-color: azure;
+}
+#article{
+    background-color:blueviolet;
+    width: 700px;
+    height: 700px;  
+    text-align: center;
+}
+#footer{background-color:aquamarine fixed;}
+#child_article{
+    background-color: blue; 
+    text-align: center;     
+    margin: 30px; 
+    margin-top: 100px; 
+} 
+
+    
